@@ -1,0 +1,7 @@
+C:\Users\CB\source\repos\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\CB\source\repos\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\CB\source\repos\DesignPattern\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\CB\source\repos\DesignPattern\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\CB\source\repos\DesignPattern\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\CB\source\repos\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\CB\source\repos\DesignPattern\TemplateMethod\obj\Debug\TemplateMethod.pdb

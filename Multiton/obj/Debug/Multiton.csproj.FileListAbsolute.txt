@@ -1,0 +1,7 @@
+C:\Users\CB\source\repos\DesignPattern\Multiton\bin\Debug\Multiton.exe.config
+C:\Users\CB\source\repos\DesignPattern\Multiton\bin\Debug\Multiton.exe
+C:\Users\CB\source\repos\DesignPattern\Multiton\bin\Debug\Multiton.pdb
+C:\Users\CB\source\repos\DesignPattern\Multiton\obj\Debug\Multiton.csprojAssemblyReference.cache
+C:\Users\CB\source\repos\DesignPattern\Multiton\obj\Debug\Multiton.csproj.CoreCompileInputs.cache
+C:\Users\CB\source\repos\DesignPattern\Multiton\obj\Debug\Multiton.exe
+C:\Users\CB\source\repos\DesignPattern\Multiton\obj\Debug\Multiton.pdb

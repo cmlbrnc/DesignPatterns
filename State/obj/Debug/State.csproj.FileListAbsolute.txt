@@ -1,0 +1,6 @@
+C:\Users\CB\source\repos\DesignPattern\State\bin\Debug\State.exe.config
+C:\Users\CB\source\repos\DesignPattern\State\bin\Debug\State.exe
+C:\Users\CB\source\repos\DesignPattern\State\bin\Debug\State.pdb
+C:\Users\CB\source\repos\DesignPattern\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\CB\source\repos\DesignPattern\State\obj\Debug\State.exe
+C:\Users\CB\source\repos\DesignPattern\State\obj\Debug\State.pdb

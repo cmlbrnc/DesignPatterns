@@ -1,0 +1,6 @@
+C:\Users\CB\source\repos\DesignPattern\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\CB\source\repos\DesignPattern\Strategy\bin\Debug\Strategy.exe
+C:\Users\CB\source\repos\DesignPattern\Strategy\bin\Debug\Strategy.pdb
+C:\Users\CB\source\repos\DesignPattern\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\CB\source\repos\DesignPattern\Strategy\obj\Debug\Strategy.exe
+C:\Users\CB\source\repos\DesignPattern\Strategy\obj\Debug\Strategy.pdb

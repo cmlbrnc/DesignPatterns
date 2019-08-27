@@ -1,0 +1,6 @@
+C:\Users\CB\source\repos\DesignPattern\NullObject\bin\Debug\NullObject.exe.config
+C:\Users\CB\source\repos\DesignPattern\NullObject\bin\Debug\NullObject.exe
+C:\Users\CB\source\repos\DesignPattern\NullObject\bin\Debug\NullObject.pdb
+C:\Users\CB\source\repos\DesignPattern\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\CB\source\repos\DesignPattern\NullObject\obj\Debug\NullObject.exe
+C:\Users\CB\source\repos\DesignPattern\NullObject\obj\Debug\NullObject.pdb

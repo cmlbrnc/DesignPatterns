@@ -1,0 +1,6 @@
+C:\Users\CB\source\repos\DesignPattern\Composite\bin\Debug\Composite.exe.config
+C:\Users\CB\source\repos\DesignPattern\Composite\bin\Debug\Composite.exe
+C:\Users\CB\source\repos\DesignPattern\Composite\bin\Debug\Composite.pdb
+C:\Users\CB\source\repos\DesignPattern\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\CB\source\repos\DesignPattern\Composite\obj\Debug\Composite.exe
+C:\Users\CB\source\repos\DesignPattern\Composite\obj\Debug\Composite.pdb
